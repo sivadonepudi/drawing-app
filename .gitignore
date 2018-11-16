@@ -1,0 +1,12 @@
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+
+/target/
+
+.classpath
+.project
+.settings/
+
